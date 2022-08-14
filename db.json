@@ -1,0 +1,548 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Frankenstein",
+      "price": 7.45,
+      "image": "https://cdn.dsmcdn.com//ty22/product/media/images/20201111/22/25149212/104514374/0/0_org.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anne of Green Gables",
+      "price": 7.05,
+      "image": "https://cdn.dsmcdn.com//ty280/product/media/images/20211225/2/16116697/94883928/1/1_org.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The litte prince",
+      "price": 9.35,
+      "image": "https://cdn.dsmcdn.com//ty80/product/media/images/20210308/9/69615093/149894136/1/1_org.jpg"
+    },
+    {
+      "id": 4,
+      "name": "A tale of to Cities",
+      "price": 5.75,
+      "image": "https://cdn.dsmcdn.com//ty76/product/media/images/20210225/2/66763357/145877189/0/0_org.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter",
+      "price": 6.35,
+      "image": "https://cdn.dsmcdn.com//ty406/product/media/images/20220422/4/96155440/455609398/1/1_org.jpg"
+    }
+
+  ],
+  "donateStory": [
+  {
+    "id": 1,
+    "image": "https://www.ideauniversal.org/wp-content/uploads/2021/11/4-1.png?id=5506",
+    "backImage": "https://www.ideauniversal.org/wp-content/uploads/2020/09/clean-water.jpg",
+    "backImageText": "Təmiz Su",
+    "contentImage": "https://images.unsplash.com/photo-1641421962694-4a772adfcf0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+    "contentImageText": "Afrikada qadınlar 6 kilometrlik su səyahəti edirlər. Evinə su gətirmək üçün hər gün yol getməli olan Kumbanın taleyi evinin qarşısındakı bulaqla dəyişib. Kumba indi çox xoşbəxtdir. Onun uşaqları və ailəsi ilə keçirməyə daha çox vaxtı var.",
+    "text1": "Su hər bir canlı üçün vacibdir. Bununla belə, dünyada son dərəcə yoxsul olan 800 milyon insanın təmiz suya çıxışı yoxdur. Bu, Türkiyədən 10 dəfə böyük əhalidir. Bu əhalinin böyük əksəriyyəti Asiya və Afrikanın kənd yerlərində yaşayır və tez-tez çaylar və göllər kimi mənbələrdən aldıqları natəmiz su üçün saatlarla piyada getməli olurlar. Əsasən qadın və uşaqların ayaqyalın etdiyi su nəqliyyatı səyahəti onlarla təhlükəni ehtiva edir. Vəhşi heyvanların hücumu, hamilə qadınların balalarını itirmə riski, təcavüz bunlardan yalnız bir neçəsidir. Uşaqlar özləri üçün gələcək qura bilmirlər, çünki məktəbə ayıracaqları vaxtı su səyahətinə sərf etməli olurlar. Epidemiyalar onsuz da kasıb olan bu insanları ələ keçirir. Ailələr su çatışmazlığından əkinçiliklə məşğul ola bilmir, özləri üçün kifayət qədər ərzaq istehsal edə bilmirlər. Onlar aclıq və yoxsulluq döngəsindən qurtula bilmirlər. Çirkli su dünyada hər hansı müharibə və zorakılıqdan daha çox insan alır. Bu ölümlərin 43%-i 5 yaşa qədər uşaqlardır. Ancaq bu vəziyyətdə bir kənddə su layihəsi edəndə hər şey dəyişməyə başlayır. Evlərinin və məktəblərin qarşısındakı fəvvarələrdən gündə 12 saat təmiz suya çıxışı olan insanlar; sağlamlığını bərpa edir, əkinçiliklə məşğul olur, qızlar özəl günlərində təhsillərini yarımçıq qoymurlar. Bir sözlə, su hər şeyi dəyişdirir.",
+    "head": "Su problemini necə həll edək?",
+    "headText": "Su probleminin həlli kənddən kəndə fərqlidir. İllərin təcrübəsi və yerli əməkdaşlarımızın təcrübəsi ilə işə başlayacağımız kənd üçün ən uyğun üsulu müəyyənləşdiririk. Bu üsullar arasında; Buruqların qazılması, yağış suyu toplama sisteminin quraşdırılması, dəniz suyunun təmizlənməsi sisteminin quraşdırılması və mövcud su quyusunun bərpası kimi müxtəlif həllər var.Dəstəyiniz sayəsində yerli hökumətlərin və yerli əhalinin iştirakı ilə müəyyən etdiyimiz ən uyğun həlli həyata keçiririk. Gigiyena təhsili su layihəsini izləyir. Təmiz suya çatan əhali gigiyena təhsili vasitəsilə yoluxucu xəstəliklərdən qorunma üsullarını öyrənir.",
+    "title": "Təmiz su"
+  },  
+  {
+    "id": 2,
+    "image": "https://www.ideauniversal.org/wp-content/uploads/2021/11/6.png?id=5508",
+    "backImage": "https://images.unsplash.com/photo-1471771450139-6bfdb4b2609a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "backImageText": "Davamlı Kənd Təsərrüfatı",
+    "contentImage": "https://www.ideauniversal.org/wp-content/uploads/2020/02/IMG_1298-600x250.jpeg",
+    "contentImageText": "Bir il əvvəl gündə bir yeməklə yalnız düyü bəsləyən Matu və onun kəndi indi böyük əkin sahələrinə sahibdir. Bu kənd təsərrüfatı sahəsində onlar pomidordan tutmuş bibərə qədər bir çox tərəvəz və meyvələr yetişdirə bilərlər. Onların orqanizminə daxil olan qidaların çeşidi artır, beləliklə də xəstəliklərə qarşı müqaviməti artır və artıq məhsullarını bazarda satıb gəlir əldə edə bilirlər. Yəni Matu və kəndi indi heç kimə ehtiyac duymadan öz həyatlarını davam etdirirlər.",
+    "text1": "Dünyada 815 milyon insan qlobal iqlim böhranı, həddindən artıq yoxsulluq, quraqlıq və zorakılıq səbəbindən aclıqla üzləşib. Qidalanma və çirklənmiş su xüsusilə Afrikada milyonlarla insanı vəba və qızılca kimi epidemiyalara sövq edir. Uşaqlar kifayət qədər qida qəbul etmədikləri üçün inkişaflarını tamamlaya bilmirlər. Birdəfəlik qida yardımı problemi həll etməklə yanaşı, insanları narkomanlığa alışdırır.İnkişaf etməmiş ölkələrdə əhalinin 78 nəfəri xırda təsərrüfatçılıqla dolanır. Kiçik fermerlər də cəmiyyətin ən yoxsul təbəqəsini təşkil edir. Gündə 1 dollardan az pulla yaşayan bu son dərəcə yoxsul əhali ən çox quraqlıq və iqlim dəyişikliyi kimi amillərdən təsirlənir.",
+    "head": "Qida Problemini Necə Həll Edirik?",
+    "headText": "IDEA Universal Assosiasiyası olaraq biz “Ağıllı Kəndlər” modelimizdə toxum bankçılığı, ağıllı suvarma sistemləri, davamlı kənd təsərrüfatı təlimləri ilə ən yoxsul kəndlərdə təbiətə uyğun istehsalı dəstəkləyirik.Tikdiyimiz günəş suyu paylayıcı sistemi sayəsində təmiz suyu olan kəndlər də yeni başladığımız ümumi kənd təsərrüfatı sahəsindəki su mənbəyindən istifadə edə bilirlər. Su ilə 12 ay məhsuldarlıq imkanı əldə edən kəndlilər başladığımız yerli toxum bankı sayəsində sağlam məhsul yetişdirə bilirlər. Sudan səmərəli istifadə, zərərvericilərə qarşı təbii mübarizə, təbii gübrə istehsalı, permakultura prinsipləri ilə bağlı 36 saatlıq təlimlə tarladan götürülmüş məhsulun məhsuldarlığını artırırlar. Beləliklə, onlar ehtiyac duyduqları sağlam qidaya çata bilsələr də, artıq istehsal etdikləri məhsulları sataraq gəlir əldə edə bilərlər. Kəndlilər gəlirlərinin 66%-ni uşaqların təhsilinə xərcləyirlər. Beləliklə, biz öz ayaqları üzərində dayanan, ətrafını dəyişməyə başlayan kəndlərin yaradılmasında öndə gedirik.",
+    "title": "Davamlı Kənd Təsərrüfatı"
+  },
+  {
+    "id": 3,
+    "image": "https://www.ideauniversal.org/wp-content/uploads/2021/11/3.png?id=5510",
+    "backImage": "https://images.unsplash.com/photo-1474398777522-cabeb42e8132?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80",
+    "backImageText": "Bərpa olunan enerji",
+    "contentImage": "https://www.ideauniversal.org/wp-content/uploads/2020/04/IMG_6664-600x250.jpg",
+    "contentImageText": "Fabakari hər gün dostları ilə birlikdə odun yığmağa gedir ki, gecələr evinə vəhşi heyvan girməsin. Bu təbəssümün səbəbi odur ki, artıq atəş açmağa ehtiyac yoxdur. Çünki IDEA Universal Assosiasiyası onun evini gün ərzində 12 saat işıqlandırmaq üçün kifayət qədər günəş paneli verib və Fəbakərinin gələcəyini işıqlandırmaq üçün kiçik bir şam yandırıb.",
+    "text1": "Afrikada əhalinin yarısının enerjiyə çıxışı yoxdur. Bu vəziyyət insanları şam və ya kerosin kimi qeyri-sağlam və yanğın riskli həll yollarına aparır. Gündə 1 dollardan az yaşayan insanların büdcəsinə yük yaradan bu həllər evin havasını çirkləndirir və sağlamlıq üçün risk yaradır.",
+    "head": "Enerji Problemini Necə Həll Edirik?",
+    "headText": "Panellər, akkumulyatorlar, uzatma kabelləri və lampaları olan günəş dəstləri sayəsində hər bir ailə 12 saat enerji alır və uşaqlar axşamlar oxuya bilərlər. Bu vəziyyət şam üçün ödənişi və şamdan qaynaqlanan yanğın riskini aradan qaldırır. Eyni zamanda, kənd sakinləri yeni populyar olan mobil telefon və radiolarını enerji ilə doldurmaq üçün şəhərə getməyə məcbur deyillər. İndiyədək bu layihədən 1200 nəfər faydalanıb.500 TL-lik ianənizlə 1 ailənin həyatını işıqlandıra bilərsiniz.",
+    "title": "Bərpa olunan enerji"
+  },  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1497375638960-ca368c7231e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFmcmljYSUyMGNoaWxkcmVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "backImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1864&q=80",
+    "backImageText": "Alternativ Təhsil",
+    "contentImage": "https://www.ideauniversal.org/wp-content/uploads/2020/04/Ads%C4%B1z-tasar%C4%B1m-19.png",
+    "contentImageText": "Başında balqabaq qabı ilə kəndində çaydan su daşıyan Maimuana; indi məktəbə gedir. Çünki onun həyatı kəndinə gələn su ilə dəyişib. Bu günlərdə müəllim olmaq arzusundadır.",
+    "text1": "Keyfiyyətli təhsil ən əsas insan hüquqlarından biridir. Afrikada uşaqların yalnız 50%-i məktəbə gedir. Gedə bilənlərin bir çoxu müəllim çatışmazlığından yazıb-oxumağı öyrənə bilmir. Hazırladığımız smart planşet layihəsi interaktiv üsullar və oyunlarla uşaqlara qısa müddətdə oxuyub yazmağı öyrədir. 1000 övladımız bu layihədən faydalanır.",
+    "head": "",
+    "headText": "",
+    "title": "Təhsil"
+  }
+  ],
+  "storyContents": [
+    {
+      "id": 1,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2020/04/Ads%C4%B1z-tasar%C4%B1m-24.png",
+      "titleOne": "Ağıllı Kəndlər"
+    },
+    {
+      "id": 2,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2020/04/Ads%C4%B1z-tasar%C4%B1m-29.png",
+      "titleTwo": "Hekayələrimiz"
+    }
+    ],
+    "ourStories": [
+    {
+      "id": 1,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2022/02/yk1.jpg",
+      "topic": "Hekayələrimiz",
+      "title": "Afrika Birliyinin 2022-ci il diqqət mərkəzində: Qidalanma",
+      "text": "Qlobal sistemdə güc mərkəzi olmaq məqsədi ilə Afrika İttifaqı tərəfindən yaradılan əlli ili əhatə edən gələcək proqnozu “Gündəm 2063” çərçivəsində işlər davam etdirilir.Bu doğrultuda Afrika Birliği’nin 2022 yılı odak noktasının Afrika kıtasında beslenme ve gıda güvenliğinde sürdürülebilirlik olduğu açıklandı. "
+    },
+    {
+      "id": 2,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2022/02/afrika-koyluler-kapak.jpg",
+      "topic": "Hekayələrimiz",
+      "title": "135 “ağıllı kənd” quruldu, 250 min həyatını xilas etdi",
+      "text": "Axşam qəzetinin 30 yanvar 2022-ci il tarixli sayında IDEA Universal Assosiasiyasının qurucu prezidenti Hayri Dağlının həyat hekayəsi, o cümlədən ağıllı kəndlər və dam örtüyü üçün nəzərdə tutulan kənd təsərrüfatı istehsalı layihələri yer alıb. 135 'Ağıllı Kənd' quruldu, 250 min adam xilas edildi. Hayri Dağlının Ağıllı Kənd layihəsi 250 min insanın həyatını dəyişib."
+    },
+    {
+      "id": 3,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-1-100-1024x683.jpg",
+      "topic": "Hekayələrimiz",
+      "title": "2022-ci ildə diqqətlə izləməli olduğumuz 10 böhran",
+      "text": "Bütün dünyanın son iki ildə mübarizə apardığı pandemiya böhranların təsirini daha da artırıb. Su, ərzaq böhranı, artan yoxsulluq, sosial bərabərsizlik, qaçqın problemi, yüksək inflyasiya və sərhəd münaqişələri ilk ağla gələnlərdir. IDEA Universal Assosiasiyası olaraq təsirini sıx hiss edəcəyimiz böhranlara diqqət çəkmək istədik."
+    },
+    {
+      "id": 4,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2022/01/su-tasiyan-insanlar-1024x683.jpg",
+      "topic": "Hekayələrimiz",
+      "title": "Bərabərsizlik öldürür!",
+      "text": "Beynəlxalq demokratik kütləvi təşkilat Oxfam, Bərabərsizlik Virusu adlı son hesabatında, xüsusilə pandemiyadan sonra artan bərabərsizliyi təəccüblü məlumatlarla ortaya qoydu. Oxfam-ın Bərabərsizlik Hesabatı Massaçusets Universitetinin İqtisadiyyat professoru Jayati Ghosh-un hesabatının ön sözündə bu təəccüblü cümlələrlə açılır."
+    },
+    {
+      "id": 5,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2020/03/hikayelerimiz3.jpg",
+      "topic": "Hekayələrimiz",
+      "title": "Madaqaskar adasına toxunmaq",
+      "text": "Madaqaskar adasına toxunmaqMadaqaskar dünyanın dördüncü ən böyük adasıdır. Unikal vəhşi təbiəti, Asiya və Afrikanın əsas qitəsindən gələn miqrasiyaların yaratdığı rəngarəng mədəni irsi ilə Afrika sahillərində nəhəng gizli coğrafiyadır. Malaqaslıların öz sözləri ilə desək, mozaika qitəsi. Şərqdən qərbə hər küncü olan möcüzələr diyarıdır."
+    },
+    {
+      "id": 6,
+      "image": "https://www.ideauniversal.org/wp-content/uploads/2020/09/DSC_1128-1024x683.jpeg",
+      "topic": "Hekayələrimiz",
+      "title": "Tanzaniya könüllü hekayəsi: Evrim Aykan",
+      "text": "2016-2017-ci illər arasında keçirdiyim depressiya məni həyatda yeni mənalar axtarmağa sövq etdi. Daimi gediş-gəlişlə ciddi qəbul etdiyim yaradıcı işim var idi. Mən dizayner idim. Əvvəlcə məhsul dizayneri oldum. Sonra kosmik dizayner."
+    }
+    ],
+    "ourStoriesDetails": [
+    {
+      "id": 1,
+      "BaseTitle": "Afrika Birliyinin 2022-ci il diqqət mərkəzində: Qidalanma",
+      "BaseTitleText": "Qlobal sistemdə güc mərkəzi olmaq məqsədi ilə Afrika İttifaqı tərəfindən yaradılan əlli ili əhatə edən gələcək proqnozu “Gündəm 2063” çərçivəsində işlər davam etdirilir. Müvafiq olaraq, Afrika Birliyinin 2022-ci ildə diqqət mərkəzinin Afrika qitəsində qidalanma və qida təhlükəsizliyində davamlılıq olduğu açıqlandı.Afrika qitəsinin ən böyük problemlərindən biri xüsusilə uşaqlarda və bununla bağlı cədvəllərdə qida çatışmazlığıdır. Şübhəsiz ki, son iki ildə yaşanan pandemiya böhranı bu problemi daha da dərinləşdirib. Qidalanma şəraitinin yaxşılaşdırılması üçün ayrılan vəsaitlər Covid-19 ilə mübarizəyə köçürülüb. Beynəlxalq İnkişaf və Ətraf Mühit Assosiasiyası (IDEA Universal) olaraq biz regionu yaxından izləyirik, çünki Afrika bizim fəaliyyət göstərdiyimiz mühüm regionlardan biridir. Afrika Birliyi fevral ayında illik hesabatında 2022-ci ildə qidalanma və qida böhranına diqqət yetirəcəklərini açıqladı. Bu kontekstdə kənd təsərrüfatının yaxşılaşdırılması, ərzaq məhsullarına çıxışın təmin edilməsi, səhiyyə və sosial müdafiə sistemlərinin gücləndirilməsi yolu ilə sosial-iqtisadi inkişafın təmin edilməsi nəzərdə tutulur.",
+      "FirstTitle": "Gənc əhalinin inkişafa təsiri",
+      "FirstTitleText": "2018-ci ilin rəqəmlərinə görə, Afrikanın 1,25 milyard əhalisi olduğu təxmin edilir və 2,6 faizdən çox artım tempi ilə ən sürətli şəhərləşən qitədir. Böyük gənclik əhalisi, düzgün investisiyalar tərəfindən kifayət qədər səlahiyyətləndirildikdə, davamlı və ədalətli inkişafın sürətləndirilməsinə töhfə verə biləcək potensial demoqrafik təsirə malikdir. Afrikada insan resursları; O, həm fərdlər, həm də ölkələr üçün gəlir təmin etdiyi üçün inkişafda əsas rol oynayır. 1994-2019-cu illər arasında 5 yaşadək uşaqların ölüm səviyyəsi 50 faizdən çox azalıb; doğuş göstəriciləri 6-dan 4-ə düşdü. Bununla belə, dünyanın qalan hissəsi ilə müqayisədə qida çatışmazlığı hələ də qitənin ən böyük problemidir. Bütün uşaq ölümlərinin demək olar ki, yarısının səbəbi düzgün qidalanmamaqdır.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2022/02/yk2.jpg",
+      "SecondTitle": "Qidalanma 5 yaşınadək uşaqlar üçün ən böyük təhlükələrdən biridir.",
+      "SecondTitleText": "Qeyri-sağlam və qeyri-kafi qidalanma səbəbindən artıq çəki, piylənmə və qeyri-infeksion xəstəliklərin halları artır. Təbii ki, bu, xəstələnmə və ölüm hallarını artırır. Qidalanma 5 yaşınadək uşaqlar üçün ən böyük təhlükələrdən biri olmaqla yanaşı, inkişaf etməkdə olan uşaqların tam potensialına çatmasına mane olur və bütövlükdə cəmiyyəti həssas edir. Qidalanma insan resurslarına və istehsala mənfi təsir göstərdiyi üçün bütün Afrika ölkələrində sosial-iqtisadi inkişafda ləngimələrə səbəb olur.",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2022/02/yk3.jpg"
+    },
+    {
+      "id": 2,
+      "BaseTitle": "135 “ağıllı kənd” quruldu, 250 min həyatını xilas etdi",
+      "BaseTitleText": "135 “Ağıllı Kənd” qurdu və 250 min insan xilas edildi. Sahibkar Hayri Dağlının 'Ağıllı Kənd' layihəsi 6 ölkədə 250 min insanın həyatını dəyişib. Gündəlik gəliri 1 dollardan az olan Afrika yerliləri bu layihə ilə təmiz su, qida və enerji əldə etdilər.Kilimancaro dağına səfərdə afrikalıların dramına şahidlik edən Hayri Dağlı İstanbuldakı işini atıb Afrikada məskunlaşmaq qərarına gəlib. Təsisçisi olduğu Beynəlxalq İnkişaf və Ətraf Mühit Assosiasiyası (IDEA Universal) vasitəsilə regionda “Ağıllı Kənd” layihəsini həyata keçirən gənc sahibkar aclıq və yoxsulluqla mübarizə aparan Afrika xalqının ümidinə çevrilib. Təmiz suya çatmaq üçün 6 km yolu piyada getməli olan kənd sakinləri birliyin açdığı su quyuları ilə təmiz su əldə edərkən rayonda kənd təsərrüfatı məhsulları canlanıb. Bölgədə paylanan günəş dəstləri ilə heç vaxt elektriklə qarşılaşmayan Afrika yerliləri enerji əldə etdilər.",
+      "FirstTitle": "1 $ ALTINDA HƏYAT.",
+      "FirstTitleText": "Gənc sahibkarın təşəbbüsü ilə həyata keçirilən yerində inkişaf modeli ilə 7 ildə 6 ölkədə 135 Ağıllı Kənd yaradılıb və 250 min insan qida, təmiz su və enerjiyə çıxış əldə edib. Dağlı dünyada 1 milyard insanın gecələr ac yatmaq məcburiyyətində qaldığını və əksəriyyətinin gündə 1 dollardan az pulla dolandığını bildirib.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2022/02/hayri-dagli3.jpg",
+      "SecondTitle": "XARİCİ YARDIMA EHTİYAC YOXDUR",
+      "SecondTitleText": "IDEA Universal tərəfindən hazırlanmış “Ağıllı kənd” layihəsində qrunt sularına çatmaq üçün 70-120 metr dərinlikdə quyular qazılır. Su qüllələri tikilir və təmiz suyu evlərə paylamaq üçün günəş enerjisi ilə işləyən ağıllı nasoslardan istifadə edilir. Qüllədəki su cazibə qüvvəsi ilə kəndin müxtəlif yerlərində tikilmiş fəvvarələrə paylanır. Suyun paylanmasından sonra kəndin ərzaq ehtiyacını davamlı şəkildə təmin etmək üçün əkinçilik addımı atılır. Bu çərçivədə kənd əhalisinə toxum dəstəyi və davamlı əkinçilik təhsili verilir. Üçüncü mərhələdə isə enerji gəlir. Kənddəki hər bir ev 15 saat işıqlandırmanı təmin edən günəş enerjisi dəstləri ilə təmin olunub. Bu mərhələlərdən sonra Afrika kəndləri kənardan köməyə ehtiyacı olmayan və ayaq üstə duran ağıllı kəndlərə çevrilir.",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2022/02/afrika-koyluler.jpg"
+    },
+    {
+      "id": 3,
+      "BaseTitle": "2022-ci ildə diqqətlə izləməli olduğumuz 10 böhran",
+      "BaseTitleText": "Bütün dünyanın son iki ildə mübarizə apardığı pandemiya böhranların təsirini daha da artırıb. Su, ərzaq böhranı, artan yoxsulluq, sosial bərabərsizlik, qaçqın problemi, yüksək inflyasiya və sərhəd münaqişələri ilk ağla gələnlərdir. Bəs 2022-ci ildə bizi nə gözləyir? IDEA Universal Beynəlxalq İnkişaf və Ətraf Mühit Assosiasiyası olaraq təsirini sıx hiss edəcəyimiz böhranlara diqqət çəkmək istədik.",
+
+      "FirstTitle": "Covid-19 yoxsulluq səviyyəsini artırır", 
+      "FirstTitleText": "Covid-19 ölkələr arasındakı bərabərsizlikləri tamamilə ifşa etdi. Görünür, 2022-ci ildə iqtisadi böhranın dərinləşməsi bu bərabərsizliyi daha da kəskinləşdirəcək. Pandemiya ifrat yoxsulluğun səviyyəsini artırdı və iyirmi illik azalma tendensiyasına son qoydu. Beynəlxalq təşkilatların səylərinə baxmayaraq, hələ də vaksinlərə ədalətli çıxışın olmadığı yerlərdə həll yolları tapmaq çətindir. Yoxsulluq həddini yeni keçən ölkələrin vəziyyəti dəyişə bilər, lakin ekspertlərin fikrincə, dünyanın epidemiyadan əvvəl problemli olan regionlarında iqtisadi təsirlər daha uzun müddət hiss olunacaq. Proses münaqişə və ya ifrat yoxsulluqla mübarizə aparan ölkələrin bərpasını daha da çətinləşdirəcək.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-1-100.jpg",
+
+      "SecondTitle": "Qida böhranı dərinləşir",
+      "SecondTitleText": "Son araştırmalara göre gıdaya ulaşmakta güçlük çeken insan sayısı 283 milyona kadar çıktı. Bu daha önce eşi, benzeri görülmemiş bir rakamdı! Burkina Faso, Etiyopya, Nijerya, Güney Sudan ve Yemen, gıda krizini en çok yaşayan ülkeler arasında. Uzun süredir devam eden politik çatışmalar, ne yazık ki daha fazla insanı, “beslenmeye bağlı ölüm olasılığı” derecesini anlatan “acil” kategorisine itti. Tabii ekstrem iklim koşulları da gıda krizini derinleştirdi. Afganistan ve Güney Madagaskar’da uzun süren kuraklık, bölgelerin gıda kriziyle mücadele etmelerini zorlaştırdı. Afrika Boynuzu’nun bazı bölgelerinde son dört mevsimden beri halen kuraklığa son verecek yağmurlar bekleniyor. Gıda fiyatlarının artışı başka bir endişe kaynağı. 2021 yılında dünya genelinde buğday ve mısır fiyatlarında yüzde 40’a varan bir artış yaşandı. Bu son 10 yılın en yüksek artışıydı.      ",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-2-100.jpg",
+
+      "ThirdTitle": "İqlim dəyişikliyinin gizli təhdidləri",
+      "ThirdTitleText": "Artan temperaturdan sağlamlıq təhlükələri yoluxucu xəstəliklərin yayılmasından tutmuş su qıtlığı və ərzaq təhlükəsizliyinin səbəb olduğu qida çatışmazlığına qədər dəyişir. Bütün dünyada temperatur artımını məhdudlaşdırmaq üçün səylər davam etsə də, COP26 Qlazqo İqlim Sammitində əldə edilən irəliləyişin 2022-ci ildəki potensial problemlər səbəbindən artıq təhlükə altında olduğu iddia edilir. The Lancet də daxil olmaqla 200-dən çox əsas tibb jurnalında dərc olunan məqalələr artan temperaturun qarşısını almaqda bu uğursuzluğun qlobal ictimai sağlamlıq üçün ən böyük təhlükə olduğunu vurğulayır. Mütəxəssislər 2022-ci ildə dünyadakı siyasi gərginliyin iqlim gündəmini arxa planda saxlayacağından narahatdırlar.",
+      "ThirdImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-3-100.jpg",
+
+      "FourthTitle": "Qlobal su problemi həyəcan yaradır",
+      "FourthTitleText": "Birləşmiş Millətlər Təşkilatının 2020-ci il Ərzaq və Kənd Təsərrüfatı Hesabatına görə, dünyada 1 milyard 200 milyon insan su qıtlığı yaşayır. Adambaşına düşən suyun miqdarı son 20 ildə 20 faiz azalıb. Şimali Afrika və Qərbi Asiyada bu nisbət yüzdə 30-a qədər yüksəlir! Bu təəccüblü rəqəmlər bizə göstərir ki, bəzi coğrafiyalarda gigiyena çox uzaqda olsa da, hətta içməli suya belə çatmaq olmur. Gələcək tədqiqatlar hazırkı su ehtiyatının dünya əhalisinin ehtiyaclarını ödəməyə kifayət etməyəcəyini proqnozlaşdırır. Hər il 7 milyon insan su ilə əlaqəli xəstəliklərdən ölür. Lazımi tədbirlər görülməzsə, istifadəyə yararlı suyun səviyyəsi içməli su ilə yanaşı təhlükəli həddə çatacaq.",
+      "FourthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-4-100.jpg",
+
+      "FifthTitle": "İnflyasiya yüksəlir",
+      "FifthTitleText": "Artan enerji, qida qiymətləri, tedarik zincirlerindeki sorunlar, lojistik giderleri ve hammadde mövzusundaki çətinliklərlə bağlı səbəblər yüksələn enflasyon oranları, geçtiğimiz yıl bütün dünyayı etkiledi. Uzmanlara göre enflasyondaki bu yükseliş 2022-ci ildə da devam edecek. İqtisadi hesabatlar, qlobal enflyasiyada bir əvvəlki ildə nisbətlə görülən artımın bəzi ölkələrin faiz nisbətlərini artırmasına yol açabileceğini belirtiyor.",
+      "FifthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-5-100.jpg",
+
+      "SixthTitle": "Təchizat zəncirində problemlər artır",
+      "SixthTitleText": "Koronavirusun yayılması tədarük zəncirinin pozulmasına səbəb olub. Gübrə, enerji, nəqliyyat və əmək xərclərinin əhəmiyyətli dərəcədə artması tədarük zəncirlərinə mənfi təsir göstərmişdir. İstehlakçılara həddindən artıq xərc kimi əks olunan bu vəziyyət ailə büdcəsinin əhəmiyyətli hissəsinin qidaya ayrılmasına səbəb olur. Nəticədə inkişaf etməkdə olan ölkələrdə ərzaq böhranı daha ciddi hiss olunur. Britaniyanın The Guardian qəzetinə görə, tədarük zəncirinin pozulması ən azı daha iki il davam edə bilər. Epidemiyanın başlanğıcında imkanlarını azaldan şirkətlər tələbat artdığı zaman mallarını istehlakçıya çatdırmaqda çətinlik çəkirdilər.",
+      "SixthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-6-100.jpg",
+
+      "SeventhTitle": "Qaçqın böhranı dərinləşir",
+      "SeventhTitleText": "Son illərin ən mühüm problemlərindən biri olan qaçqın böhranının 2022-ci ildə bütün dünyada daha da artacağı gözlənilir. Milyonlarla insan 2021-ci ildə müharibə, quraqlıq, aclıq və terror kimi problemlərə görə miqrasiya etməli olub. Suriya, Əfqanıstan, Sudan, Cənubi Sudan, Somali, Myanma, Konqo Demokratik Respublikası, Yəmən, Efiopiya və Nigeriyada problemlər hələ də davam edir. Bu ölkələrdən məcburi köçün bu il də davam edəcəyi gözlənilir.",
+      "SeventhImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-7-100.jpg",
+
+      "EighthTitle": "Böhranların qiyməti artır",
+      "EighthTitleText": "Dünyada Covid-19, siyasi münaqişələr və iqlim dəyişikliyi kimi böyük böhranların həlli yollarının tapılmasının dəyəri 2022-ci ildə rekord səviyyələri keçəcək. İqlim böhranının təsirləri indi güclü fırtınaların və ya yüksələn dənizlərin fiziki zərərindən çox kənara çıxır. Əvvəlki illərdə iqlim dəyişikliyi risk multiplikatoru kimi vurğulanırdı, lakin indi artan sağlamlıq riskləri iqlim şəraitinin gizli xərcləri kimi ortaya çıxır.",
+      "EighthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-8-100.jpg",
+
+      "NinthTitle": "Beynəlxalq münasibətlər pisləşir",
+      "NinthTitleText": "2022-ci ildə iqtisadi problemlər səbəbindən ölkələr arasında gərginlik və münaqişələrin daha da artacağı gözlənilir. ABŞ, Çin və Rusiya arasında gərginliyin davam edəcəyi bildirilir. Avropa Birliyi ilə Böyük Britaniya arasında məsafə getdikcə genişlənir. Hətta İttifaq daxilində çatlamış səslərin arta biləcəyi, Polşa ilə Macarıstan və Aİ arasında fikir ayrılığının böhrana çevrilə biləcəyi də şərh edilir. Rusiyanın Ukrayna ilə böhranı da gərginləşə bilər. Bölgədə qızğın qarşıdurma olacağından ehtiyatlanır.",
+      "NinthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-9-100.jpg",
+
+      "TenthTitle": "Enerji böhranı davam edir",
+      "TenthTitleText": "2021-ci il bütün dünyada neft, kömür və təbii qaz kimi enerji resurslarının qiymətlərində rekord artımlarla enerji böhranının şahidi oldu. Təəssüf ki, bu mənzərə 2022-ci ildə də davam edəcək. Epidemiya dövründə azalan enerji istehsalı əvvəli tələbin sürətlə artması enerji qiymətlərini rekord səviyyəyə qaldıraraq bazarlarda aksamalara səbəb olur. Sözügedən enerji böhranı epidemiya zamanı iş itkisi ilə mübarizə aparan ölkələrin yüksək qiymətlərdən daha çox əziyyət çəkməsinə səbəb olur. Yaşıl enerji transformasiyası üçün həyata keçirilən siyasətlər 2022-ci ildə həyata keçirilməlidir.",
+      "TenthImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/Artboard-10-100.jpg"
+    },
+    {
+      "id": 4,
+      "BaseTitle": "Bərabərsizlik öldürür!",
+      "BaseTitleText": "Beynəlxalq demokratik kütləvi təşkilat Oxfam, Bərabərsizlik Virusu adlı son hesabatında, xüsusilə pandemiyadan sonra artan bərabərsizliyi təəccüblü məlumatlarla ortaya qoydu.",
+      "FirstTitle": "Pandemiya bərabərsizliyi artırdı", 
+      "FirstTitleText": "Şübhəsiz ki, pandemiya ilə keçən iki çətin il dünyada bərabərsizliyi artırdı. Bəlkə hamımız vicdanla düşünürdük ki, pandemiyanın bu bərabərsizliyi azaldacaq, amma təəssüf ki, bunun əksi baş verdi.Fork Films-in həmtəsisçisi, fəalı və sənədli film rejissoru Abigail E. Disney dedi: “Köhnə milyarderlər səhmlərinə getdikcə daha çox milyardlar əlavə etdikcə, yeni milyarderlər meydana çıxdı. Pandemiya başlayanda cəmiyyət çatlarla dolu idi; Onlar qırılma xətlərinə qədər genişlənən çatlar idi. Bu çatışmazlıq xətləri sosial birliyi və demokratiyanı təhdid edir və bəlkə də daha vacibi, iqlim böhranına hər hansı etibarlı və ya effektiv yanaşma üçün demək olar ki, keçilməz bir maneədir.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/cicek-tasiyan-kadin.jpg",
+      "SecondTitle": "Həll yolu uzaqdır",
+      "SecondTitleText": "Bu təəccüblü rəqəmlər və qərarlar davam edir, amma həll yolu nədir? Fork Films-in həmtəsisçisi, fəalı və sənədli film istehsalçısı Abigail E. Disney dedi: “Biz ölümcül status-kvonu saxlayan strukturları pozmalı və həm sərvəti, həm də hakimiyyəti daha ədalətli şəkildə yenidən bölüşdürəcək yeni strukturlar qurmalıyıq. Sistemli problemlər, xəstəliyin özündən daha çox simptomları müalicə etmək üçün hissə-hissə cəhdlər deyil, sistemli həllər tələb edir. Dünyanın əksər problemlərini həll etmək üçün kifayət qədər pul var. Bu, yalnız paylarını ödəməyən milyonçular və milyarderlərin əlindədir deyir.",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2022/01/afrikali-cocuklar.jpg"
+    },
+    {
+      "id": 5,
+      "BaseTitle": "Madaqaskar adasına toxunmaq",
+      "BaseTitleText": "Madaqaskar dünyanın dördüncü ən böyük adasıdır. Unikal vəhşi təbiəti, Asiya və Afrikanın əsas qitəsindən gələn miqrasiyaların yaratdığı rəngarəng mədəni irsi ilə Afrika sahillərində nəhəng gizli coğrafiyadır. Malaqaslıların öz sözləri ilə desək, mozaika qitəsi. Şərqdən qərbə hər küncü olan möcüzələr diyarıdır. Dost lemurlardan tutmuş padşahların ruhlarının gəzdiyi güman edilən məbədlərə, kəndlərdən şəhərlərə qədər müqəddəslik dənizi.IDEA Universal olaraq biz Madaqaskarın sirlərini açmaq və bu möcüzəvi ölkənin bolluq içində yoxsulluq içində olan insanlarına toxunmaq üçün orada idik.",
+      "FirstTitle": "Kasıb Amma Xoşbəxt Deyil", 
+      "FirstTitleText": "Madaqaskar əslində filmdəki kimi bütün canlıların xoşbəxt yaşadığı bir yer deyil. Əslində filmdəki şir və zürafə kimi növlər əslində burada yaşamır. Birləşmiş Millətlər Təşkilatına görə dünyanın dördüncü ən kasıb ölkəsidir. Yaxşı, bu insanlar kasıb, amma xoşbəxt olmazdımı? soruşa bilərsiniz. Bu, bildiyiniz yoxsulluq deyil. Təsəvvür edin ki, bir şüşə suyun bir dollar olduğu ölkədə əhalinin 70%-i gündə bir dollardan az pulla dolanır. Fikirləşin ki, gündə bir dəfə yemək tapanlar, gecələr qarnı tox yatanlar özlərini şanslı sayırlar. Uşaqların maşınların qarşısına keçib sadəcə su istədikləri yer düşünün. Bura belə bir yerdir. O qədər kasıb yerdir, amma o qədər kasıbdır ki, xoşbəxt yaşamaq mümkün deyil. Müstəmləkəçiliyin qaranlıq tərəfinin üzünə sillə vurduğu yer.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2020/03/1_rA3ZnYGadhB-sYr0eX4_SA.png",
+      "SecondTitle": "Burada Su Yoxdur",
+      "SecondTitleText": "Günlər keçdikcə həyəcan daha da artırdı. Gecə-gündüz davam edən qazıntıların dördüncü gününün sonunda 100 metrə çatmışdıq. Ancaq hələ də suyun çıxması ilə bağlı heç bir işarə yox idi. Biz quyudan suyun çıxmasını gözlədiyimiz müddətdə torpaq çıxmağa davam etdi. Günəş batan kimi qazma maşınının operatoru maşını saxladı. Mənə yaxınlaş və de:  “Yox, burada su yoxdur, indi işi dayandırmalıyıq. Daha da irəli getmək qazma qurğusunun ekskavator bitlərini itirməyimizə səbəb ola bilər. Əlimizdə olan resurslarla irəli getmək mümkün deyil”, - deyə o bildirib.",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2021/11/4-1.png?id=5506"
+    },
+    {
+      "id": 6,
+      "BaseTitle": "Tanzaniya könüllü hekayəsi: Evrim Aykan",
+      "BaseTitleText": "2016-2017-ci illər arasında keçirdiyim depressiya məni həyatda yeni mənalar axtarmağa sövq etdi. Daimi gediş-gəlişlə ciddi qəbul etdiyim yaradıcı işim var idi. Onlardan “Sən kimsən?” sualı verilsəydi, ilk cavabım həmişə peşəmlə bağlı olurdu.Mən dizayner idim. Əvvəlcə məhsul dizayneri oldum. Sonra kosmik dizayner. Bəzən kiçik hekayələr tərtib edirdim. Çox oxudum, çox yazdım, çox səyahət etdim. Çünki əlimdə olanlar və ya etdiklərim mənə çatmırdı. Düşünürəm ki, ilk növbədə öz ekzistensial kimliyimi dizayn etməyə çalışırdım. Halbuki, varlıq nəzərdə tutulmuş bir şey deyildi, öz-özünə meydana gələcəkdi. Bilmirəm bu nə ola bilməzdim, amma bu halım bir şey olmaq və bir şey etməyə çalışmaq məni çox yorurdu. Mən də tək üzməkdən çox yorulmuşdum və boğulmamaq üçün çox çalışırdım. Öz-özünə gedən, heç kimə nə faydası, nə də zərəri olan bir həyatım var idi. Sonra bir gün anladım ki, Laləsin sözlərində olduğu kimi",
+      "FirstTitle": "dəyişiklik vaxtı", 
+      "FirstTitleText": "Kooperativ kənd təsərrüfatı. Deməli, təkcə ana tərəfindən deyil, həm də valideynlər, babalar, nənələr, qardaşlar və digər ailə üzvləri tərəfindən tərbiyə olunan insanlar kimi növlərdə başqalarını düşünmək və onların maraqlarını axtarmaq vərdişi açıq-aydın daha çoxdur. Mən səkkiz yaşıma kimi kənddə bir evdə, çoxuşaqlı ailədə baba-baba, əmi və bibilərimlə böyümüşəm. Belə bir keçmişə sahib olandan sonra nəhəng bir şəhərin və həyatın ortasında yaşadığı fərdi eqoizmin əsdiyi 37 yaşlı tənha qadın kimi həyatımı daha davam etdirə bilmədim. Dünyanın qarşısında hiss etdiyim narahatlıq, sahib olduğum hər şeydən əl çəkməyi düşündürdü.",
+      "FirstImage": "https://www.ideauniversal.org/wp-content/uploads/2020/09/image-002-287x300.jpg",
+      "SecondTitle": "Tanzaniyaya səyahət",
+      "SecondTitleText": "Kim bilirdi ki, bir gün ekranda baxdığım o fotoşəkildə özümü tapacam. Beləliklə, mən IDEA Universal-ın xəyalpərəst, cəsur, iştirakçı, müstəqil könüllülər komandasına qoşuldum və öz işlərini sevgi ilə yerinə yetirdim. O gündən sonra heç nə əvvəlki kimi olmadı. Mən bir daha kompüter ekranının arxasından yer üzünün gözəlliklərinə baxıb ah çəkib başqaları üçün necə yazıq olduğumu hiss edən insan olmamışam. Tanzaniyada IDEA Universal layihələrində iştirak etmək və Tanzaniyanın kənd yerlərində yaşamaq və könüllü işimdən sonra gündəlik həyata qarışmaq məni dönməz şəkildə dəyişdi.Bütün imkansızlıqlarda gülər üzləri, işıqlı gözləri ilə ürəyinizə baxan o afrikalı uşaqları gördükdən sonra fil sümüyü qüllələrində köhnə həyatınıza qayıtmaq mümkün deyil.",
+      "SecondImage": "https://www.ideauniversal.org/wp-content/uploads/2020/09/evrim-aykan-ve-cocuklar.jpg"
+    }
+    ],
+  "donateProjects": [
+    {
+      "id": 1,
+      "name": "KENYA",
+      "title": "Su Böhranına Yardım Fondu",
+      "image": "https://images.unsplash.com/photo-1520254553641-2eed4cf2ef26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fGtlbnlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "SOMALI",
+      "title": "Şərqi Afrika Aclığa Yardım Fondu",
+      "image": "https://files.globalgiving.org/pfil/56253/pict_featured.jpg?m=1654802957000"
+    },
+    {
+      "id": 3,
+      "name": "KONGO",
+      "title": "Virusa qarşı Yardım Fondu Fondu",
+      "image": "https://files.globalgiving.org/pfil/53411/pict_featured.jpg?m=1654804688000"
+    },
+    {
+      "id": 4,
+      "name": "SUDAN",
+      "title": "Böhran Fonduna ümid",
+      "image": "https://images.unsplash.com/photo-1473594659356-a404044aa2c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWZyaWNhJTIwbW90aGVyJTIwY2hpbGRyZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "TopThemesProjects": [
+    {
+      "id": 1,
+      "name": "Covid-19",
+      "text": "Bu layihə 400 uşağın virtual və yerində dərslərə qatılaraq əsas təhsilini davam etdirməsinə zəmanət verəcək.",
+      "image": "https://images.globalgiving.org/pfil/53076/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "title": "Covid-19",
+      "backgroundImage": "https://www.globalgiving.org/img/banners/hero_give_lg.jpg",
+      "backgroundImageText": "Covid-19",
+      "firstImage": "https://images.globalgiving.org/pfil/7107/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "firstImageTitle": "Afrikada Covid və İqlimə əsaslanan aclıqla mübarizə aparın",
+      "firstImageText": "Afrika dünyada uşaqların qida çatışmazlığının ən yüksək nisbətinə malikdir. Covid və iqlim dəyişikliyi problemi daha da artırır. İcma səhiyyə işçiləri ilə işləyərək, biz təhsil, monitorinq və müalicə ilə uşaqların erkən yaşlarında kənd icmalarında uşaqların qida çatışmazlığı ilə mübarizə aparırıq.",
+
+      "secondImage": "https://images.globalgiving.org/pfil/46010/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "secondImageTitle": "Corona Virus Omikron - Qarşısının alınması və Relief",
+      "secondImageText": "COVID-19 pandemiyasının cəmiyyətə istənilmədən daxil olmasının aradan qaldırılması üçün bəşəriyyətin ən yaxşısına ehtiyacı var. Korona virusu bütün dünyada minlərlə insanın həyatına son qoydu.",
+      
+      "thirdImage": "https://images.globalgiving.org/pfil/27761/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "thirdImageTitle": "Fermerlərə COVID-dən sonra bərpa etmək üçün dəstək",
+      "thirdImageText": "Daha yaxşı həyat üçün daha yaxşı ev hər bir ailədə ətraf mühitə uyğun əkinçilik (kənd təsərrüfatı və heyvandarlıq) və balıq ovu və s. ilə dəstəklənməklə sosial-iqtisadi vəziyyəti yaxşılaşdırmaq və yerli əhalinin ərzaq təhlükəsizliyini və ərzaq təhlükəsizliyini təmin etmək ideyasıdır.",
+
+      "fourthImage": "https://files.globalgiving.org/pfil/53076/pict_large.jpg?m=1626365015000",
+      "fourthImageTitle": "KONGO: 400 UŞAĞI VƏ COVİD-19-u TƏHSİL EDİN-SAĞALIN-BEDİRİN",
+      "fourthImageText": "Bu layihə 400 uşağın virtual və yerində dərslərə qatılaraq əsas təhsilini davam etdirməsinə zəmanət verəcək. Məktəbdə oxuyarkən onlar yüngül səhər yeməyi, balanslaşdırılmış nahar və tibbi yardım alacaqlar.",
+
+      "fifthImage": "https://images.globalgiving.org/pfil/48292/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fifthImageTitle": "COVİD-19-DAN TƏSİRLƏNMƏK 60 İŞÇİYƏ ÜMİD VERİR",
+      "fifthImageText": "15 mart 2020-ci il tarixindən Keniya Hökuməti COVID-19 pandemiyası səbəbindən bütün məktəbləri qəfil bağladığı zaman, hazırda fəaliyyət göstərdiyimiz iki yerdən (Nayrobi və Kisumu əyalətləri) 60 işçimiz də qəfil evə göndərildi.",
+
+
+      "sixthImage": "https://images.globalgiving.org/pfil/46010/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "sixthImageTitle": "Corona Virus Omikron - Qarşısının alınması və Relief",
+      "sixthImageText": "COVID-19 pandemiyasının cəmiyyətə istənilmədən daxil olmasının aradan qaldırılması üçün bəşəriyyətin ən yaxşısına ehtiyacı var. Korona virusu bütün dünyada minlərlə insanın həyatına son qoydu.",
+
+      "seventhImage": "https://images.globalgiving.org/pfil/46436/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "seventhImageTitle": "COVID-19 Qida Yardım Xidməti",
+      "seventhImageText": "Nigeriya COVID 19-un ikinci dalğasının ortasındadır. Gündəlik yoluxma sayı rekord həddə çatıb və minlərlə ailə böyük risk altındadır. Bütün bunlardan ən çox zərər çəkən cəmiyyətin imkansız təbəqəsidir.",
+
+      "eighthImage": "https://images.globalgiving.org/pfil/47501/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "eighthImageTitle": "Xanım Nəcənin Mətbəxi - Qəzza Təcili Yeməkləri",
+      "eighthImageText": "Mənim adım Nəcahdır və mən qaçqınam, Qəzza zolağında, Rəfahdakı qaçqın düşərgəsində doğulub böyümüşəm. Mən 18 ildən artıqdır ki, Rəfah Qadın Proqramları Mərkəzinin İcraçı Direktoru kimi Qəzzanın Rəfah şəhərində qadınları və onların ailələrini yüksəltmək və gücləndirmək üçün xidmətlər göstərirəm.",
+
+      "ninthImage": "https://images.globalgiving.org/pfil/46549/pict_original.png?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "ninthImageTitle": "Covid 19 dövründə Meksikalı uşaqlara / Xərçəngə kömək edin",
+      "ninthImageText": "Bu layihə Meksikada Covid-19 dövründə xərçəng xəstəliyindən əziyyət çəkən aztəminatlı qızlar, oğlanlar və gənclərə xüsusi tədqiqatlar, dərmanlar, protezlər və endoprotezlər verməklə kömək edəcək.",
+
+      "tenthImage": "https://images.globalgiving.org/pfil/47493/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "tenthImageTitle": "Əl-ələ Dializ Yardım Proqramı",
+      "tenthImageText": "Aztəminatlı ailələrin vəziyyəti nadir hallarda media və internetdən eyni dərəcədə diqqət və ya məruz qalır, çünki xüsusilə Covid-19 dövründə çətin vəziyyətlərini vurğulamaq üçün bu kanallara çıxışları çətin olur. Buna görə də, dializ müalicəsində səhiyyə axtarışında olan yükü azaltmaq üçün vəsait və resurslar ayırmaqla bu hədəf qrupa müraciət edirik."
+    },
+    {
+      "id": 2,
+      "name": "Təhsil",
+      "text": "Təxminən hər 6 uşaqdan 1-i və ya qlobal miqyasda 356 milyon uşaq ifrat yoxsulluq şəraitində yaşayır və bu uşaqların 2/3-i Saharadan cənubda Afrikada yaşayır (UNICEF, 2020).",
+      "image": "https://images.globalgiving.org//pfil/13015/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "title": "",
+      "backgroundImage": "https://www.globalgiving.org/img/banners/hero_give_lg.jpg",
+      "backgroundImageText": "TƏHSİL",
+      "firstImage": "https://files.globalgiving.org/pfil/31562/pict_large.jpg?m=1515401904000",
+      "firstImageTitle": "Qızı gücləndirin: Uqandada hüquqları üçün mübarizə aparın",
+      "firstImageText": "Kole İntellektual Forumu Uqandada bütün səviyyələrdə siyasətçilərin, təhsil işçilərinin, icmasının və gənclərinin ideyalarına təsir etmək niyyətindədir və əsas təhsilin tədris planına Ev İqtisadiyyatı kursunu daxil etmək məqsədi ilə keyfiyyətli, davamlı və potensial təhsili inkişaf etdirmək niyyətindədir. Şimali Uqanda, Kole rayonundakı Ev İqtisadiyyatı İnstitutu.",
+
+      "secondImage": "https://images.globalgiving.org//pfil/25898/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "secondImageTitle": "15 Aspirant Uqandalı Qızı Məktəbdə saxlamağa kömək edin",
+      "secondImageText": "2587 Cənubi Afrikalı yetim və həssas uşaqların həyatını dəyişdirmək üçün Keep The Dream196-a qoşulun. 5-26 yaşlı uşaqlar, ailələri, kəndləri və nəhayət ölkəni dəyişdirərək, həyat bacarıqlarını ötürməklə və ümid bəsləməklə bu gün Cənubi Afrikaya təsir göstərir və qururuq.",
+
+      "thirdImage": "https://images.globalgiving.org/pfil/3935/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "thirdImageTitle": "Bir Qıza Təhsil Verin, Bir Millətə Təhsil Verin - Sierra Leone",
+      "thirdImageText": "UIS məlumatlarına görə, regionda təxminən 6-11 yaş arasında olan 9 milyon qız heç vaxt məktəbə getməyəcək, 6 milyon oğlan isə. Yetkinlik yaşına çatdıqda qızlar üçün istisna nisbəti oğlanlar üçün 32% ilə müqayisədə 36% təşkil edir.",
+
+      "fourthImage": "https://images.globalgiving.org//pfil/13015/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fourthImageTitle": "Keniya kəndlərində gücləndirin, məşğul olun, təhsil alın!",
+      "fourthImageText": "Keniyanın kənd yerlərində tələbələrin kompüterdən istifadə etdiyini və kitab oxuduğunu təsəvvür edin! Kenya Connect Tədris Resurs Mərkəzi 55 partnyor məktəbimizdən olan tələbələr və müəllimləri STEAM proqramları və qızlar və oğlanlar üçün kompüter savadlılığı daxil olmaqla texnologiyaya çıxış yolu ilə cəlb edir və onlara imkan verir.",
+
+      "fifthImage": "https://images.globalgiving.org/pfil/18502/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fifthImageTitle": "700 Küçə Uşağına Hədiyyə və yemək verin",
+      "fifthImageText": "Bu layihə çərçivəsində 700 küçə və yoxsul gecəqondu uşaqlarına qidalanma qidası, hədiyyə, yeni paltar, nahar/şam yeməyi, oyuncaqlar və xoşbəxtlik veriləcək. Proqram olduqca unikal olacaq. Kasıb küçə və gecəqondu uşaqları üçün bütün bunlar bir xəyaldır.",
+
+      "sixthImage": "https://images.globalgiving.org/pfil/44739/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "sixthImageTitle": "Yəməndə 1000 kasıb kənd məktəbli qızını qidalandırır",
+      "sixthImageText": "Bu layihə Yəmənin Səna şəhərində 1000 kənd məktəblisini qidalı səhər yeməyi ilə təmin etmək məqsədi daşıyır. İbtidai siniflərdə oxuyan qızların sayını artıracaq. Bu, məktəb günü uşaqların aclığını azaltmaq məqsədi daşıyır. Bu, oğlanlar və qızlar arasında gender bərabərliyinə nail olmağa kömək edəcək.",
+
+      "seventhImage": "https://images.globalgiving.org/pfil/14455/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "seventhImageTitle": "Tibb tələbələrinin daha yaxşı həkim olmasına kömək etmək",
+      "seventhImageText": "CAR tibb/sağlamlıq elmləri tələbələri strukturlaşdırılmış onlayn axtarış və istinad bacarıqları öyrədilmədiyi üçün qiymətli saatlarını sərf edirlər. Bunlar yaxşı tədqiqat və sübuta əsaslanan səhiyyə xidmətləri üçün lazım olan bacarıqlardır.",
+
+      "eighthImage": "https://images.globalgiving.org/pfil/10113/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "eighthImageTitle": "Aztəminatlı uşaqlar üçün ödənişsiz məktəb",
+      "eighthImageText": "JAAGO Fondu təhsildən yoxsulluq dövriyyəsindən çıxmaq, gəlir, artım və davamlı inkişaf üçün imkanlar yaratmaq üçün silah kimi istifadə etməyi hədəfləyir. Hazırda JAAGO Keyptaunun 11 rayonunda 13,000 tələbə təhsil alır. Pulsuz Məktəb Proqramı Keyptaunda 12 məktəbdə 3500 aztəminatlı uşaqları əhatə edir.",
+
+      "ninthImage": "https://images.globalgiving.org/pfil/2291/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "ninthImageTitle": "Sierra Leonenin Gələcək Liderlərini Maarifləndirin",
+      "ninthImageText": "Təxminən hər 6 uşaqdan 1-i və ya qlobal miqyasda 356 milyon uşaq ifrat yoxsulluq şəraitində yaşayır və bu uşaqların 2/3-i Saharadan cənubda Afrikada yaşayır (UNICEF, 2020). Biz təqaüdlər, kitablar, uniformalar, məktəb yeməkləri, məktəb və tədris ləvazimatları, sinif otaqlarının yenilənməsi, nəqliyyat, COVID-19 dəstəyi, günəş işığı və kompüter təlimi ilə bu ehtiyacı qarşılayırıq. Bu, uşaqlara/gənclərə təhsillərini başa vurmağa və Sierra Leonedə gələcək lider olmağa kömək edir.",
+
+
+      "tenthImage": "https://images.globalgiving.org/pfil/1877/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "tenthImageTitle": "Nigerdə bir uşağı bir il məktəbə göndərin",
+      "tenthImageText": "Seva Mandirin diqqəti yüksək effektiv təhsil müdaxilələri vasitəsilə əlverişsiz qəbilə ərazilərindəki uşaqların keyfiyyətli təhsilə çıxışını təmin etməkdir. Uşaqlara inamlı, müstəqil öyrənənlərə çevrilərək təhsillərini davam etdirmək imkanı yaradılır."
+    
+    },
+    {
+      "id": 3,
+      "name": "Ərzaq Təhlükəsizliyi",
+      "text": "Heç məktəbə ac getməli olmusan? Bu, Keniyanın Kibera gecəqondusunda bir çox uşaq üçün gündəlik təcrübədir.",
+      "image": "https://images.globalgiving.org/pfil/9842/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "title": "",
+      "backgroundImage": "https://www.globalgiving.org/img/banners/hero_give_lg.jpg",
+      "backgroundImageText": "Ərzaq Təhlükəsizliyi",
+      "firstImage": "https://images.globalgiving.org/pfil/18741/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "firstImageTitle": "RLC ilə 1 Milyon Yeməyi xilas edin",
+      "firstImageText": "Pandemiya bir şeyi sübut etdisə, bu, SENEGAL-da ərzaq təhlükəsizliyi və qida tullantıları probleminin gözləniləndən də pis olması idi. Keçən il hər 7 ailədən 1-i, o cümlədən hər 6 uşaqdan 1-i ərzaq çatışmazlığı ilə üzləşib. Bizim missiyamız və icmamız pandemiya səbəbindən azalmayıb - tam əksi! İçimizə baxmaqla, biznes modelimizi təkmilləşdirməklə və işçi heyətimizi ikiqat artırmaqla RLC missiyamızı SENEGAL-da daha da yaymaq üçün yenilənmiş və güclənmiş vizyonla 2022-ci ilə qədəm qoyur!",
+
+      "secondImage": "https://images.globalgiving.org/pfil/16275/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "secondImageTitle": "Zimbabvedə ac uşaqları yedizdirməyə kömək edin",
+      "secondImageText": "Rəhbərliyin dəyişməsinə baxmayaraq, Zimbabvenin adi vətəndaşı üçün heç nə dəyişməyib. Qiymətlər yüksəlməyə davam edir və işsizlik 99% civarındadır. Bu layihə yerli İbtidai Məktəbdəki 250 günlük alimlərə gündəlik qidalı nahar, əsas dəftərxana ləvazimatı, idman və dərsliklərlə kömək etmək məqsədi daşıyır, bu əsas mənbələrə kömək etməklə biz uşaqların təhsillərinə diqqət yetirmələri və davam etdirmələri üçün xarici mübarizələri yüngülləşdirməyə ümid edirik. daha.",
+
+      "thirdImage": "https://images.globalgiving.org/pfil/41130/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "thirdImageTitle": "Qəzzaya Fövqəladə Yardım Fondu",
+      "thirdImageText": "Qəzzalı ailələrin evlərini və həyatlarını bərpa etmək üçün yardımınıza ehtiyacı var. Komandamız ən çox ehtiyac duyulan yerdə kömək edir, İsrailin may ayındaki bombardmanları nəticəsində ailə-ailə kütləvi dağıntılara cavab vermək üçün blokadanı dəf edir. Dörd Fələstinli QHT tərəfdaşımız böhranda olan ailələri müəyyənləşdirir və maliyyə şəffaflığını təmin edir. Sizin ianəniz Qəzzalı ailələr üçün yaşayış evləri tikir və ya onların kirayəsini ödəməyə kömək edir, gəlir mənbəyi üçün kiçik bizneslər qurur və onların çox ehtiyacı olan yemək və geyimləri təmin edir.",
+
+      "fourthImage": "https://images.globalgiving.org/pfil/55473/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fourthImageTitle": "Aclıq üçün yemək",
+      "fourthImageText": "Bu layihə Hindistanın Puduçerri şəhərində və onun ətrafında 100 evsiz, yoxsul və məzlumun bir gündə yemək yeməsinə dəstək verir. Pandemiya səbəbindən iqtisadi vəziyyət çox pisdir və işini itirən çoxlu insanlar var və iqtisadi vəziyyət çox pisdir. Səkilərdə yaşayan evsizlərin yeməkləri yoxdur",
+
+      "fifthImage": "https://images.globalgiving.org/pfil/47501/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fifthImageTitle": "Xanım Nəcənin Mətbəxi - Qəzza Təcili Yeməkləri",
+      "fifthImageText": "Mənim adım Nəcahdır və mən qaçqınam, Qəzza zolağında, Rəfahdakı qaçqın düşərgəsində doğulub böyümüşəm. Mən 18 ildən artıqdır ki, Rəfah Qadın Proqramları Mərkəzinin İcraçı Direktoru kimi Qəzzanın Rəfah şəhərində qadınları və onların ailələrini yüksəltmək və gücləndirmək üçün xidmətlər göstərirəm. Biz variantın riskləri, yerli iqtisadiyyatımızın böyük çöküşü, bombalanma nəticəsində dağılan evlər, az elektrik, zədələnmiş su təchizatı ilə üzləşirik. Ailələr acdır. Xahiş edirəm, gələn il onları qidalandırmaqda mənə kömək edin.",
+
+      "sixthImage": "https://images.globalgiving.org/pfil/9842/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "sixthImageTitle": "Kibera gecəqonduda yaşayan 200 uşağı qidalandırın",
+      "sixthImageText": "Heç məktəbə ac getməli olmusan? Bu, Keniyanın Kibera gecəqondusunda bir çox uşaq üçün gündəlik təcrübədir. Bu, bəzilərinin yemək axtarmaq üçün məktəbi tərk etməsinə səbəb olur. Dönüş Nöqtəsi Qidalanma Proqramı Kiberada təhsil proqramlarına qatılan 200 ac uşaq üçün qidalı səhər yeməyi və nahar təqdim edir. Növbəti 2 il ərzində bu proqramı davam etdirməyimizə kömək edin.",
+
+      "seventhImage": "https://images.globalgiving.org/pfil/27761/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "seventhImageTitle": "Fermerlərə COVID-dən sonra bərpa etmək üçün dəstək",
+      "seventhImageText": "Daha yaxşı həyat üçün daha yaxşı ev hər bir ailədə ətraf mühitə uyğun əkinçilik (kənd təsərrüfatı və heyvandarlıq) və balıq ovu və s. ilə dəstəklənməklə sosial-iqtisadi vəziyyəti yaxşılaşdırmaq və yerli əhalinin ərzaq təhlükəsizliyini və ərzaq təhlükəsizliyini təmin etmək ideyasıdır. BEDS hazırda daha yaxşı həyat üçün daha yaxşı ev altında olan 60 ailəni dəstəkləyir. Bu təşəbbüs marjinal kəndlilərin sosial-iqtisadi vəziyyətini yaxşılaşdırmaqla yanaşı, onlara COVID-19 pandemiyası ilə mübarizə aparmaq üçün güc verəcək.",
+
+      "eighthImage": "https://images.globalgiving.org/pfil/45950/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "eighthImageTitle": "Koronavirusla Mübarizə Layihəsi",
+      "eighthImageText": "Bu layihə vasitəsilə siz kənd yerlərində yaşayan yoxsul və təcrid olunmuş ailələri zəruri ərzaq məhsulları və sağlamlıq dəstləri ilə təmin edə bilərsiniz. Bu insanlar böyük ölçüdə laqeyd qalır və Covidlə bağlı müalicə və qayğıya çox az çıxışı var. Bu kampaniya əsas qidalanma və vitamin və mineral həblər, quru meyvələr, maskalar, əlcəklər və dezinfeksiyaedici vasitələr kimi sanitariya məhsulları ilə təmin etməyə kömək edə bilər. Biz həmçinin seks işçiləri, transgenderlər və s. kimi həssas icmalardan olan benefisiarlara Qida Paketləri təqdim edirik.",
+
+      "ninthImage": "https://images.globalgiving.org/pfil/32688/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "ninthImageTitle": "Bu gün Sudanda Ac Uşağı Yedirin",
+      "ninthImageText": "Aclıq ən böyük problemdir və dövranı pozmağa və uşaqlara təhsil verməyə çalışmazdan əvvəl həll etməli olduğumuz problemdir, çünki Sudanda  milyonlarla insan həddindən artıq yoxsulluq içində yaşayır. Əks halda küçələrdə ola biləcək 2 yaşındakı uşaqlarla işləmək layihəmiz uşaqların gəlib öyrənmələri üçün təhlükəsiz yer təmin edir, lakin biz onlara öyrətməzdən əvvəl onların beyinlərinin təchiz olunmasını təmin etmək üçün onlara gündəlik qidalı yemək vermək vacibdir, gücləndirilmiş və öyrənməyə hazırdır.",
+
+
+      "tenthImage": "https://images.globalgiving.org/pfil/13523/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "tenthImageTitle": "Qvatemala kəndlərində qida çatışmazlığı ilə mübarizə",
+      "tenthImageText": "Bu proqram ailələrə ən yaxşı və ən qidalı tərəvəz və meyvə növləri, üzvi bağçılıq texnikaları, zülal üçün kiçik heyvanların necə yetişdirilməsi, mətbəxin gigiyenası və qida ehtiyaclarını başa düşmək haqqında düzgün alətlər və təhsil verməklə uşaqlar və analar arasında qida çatışmazlığı ilə mübarizə aparır. İnteqrasiya edilmiş yanaşmamız elmi cəhətdən sübut edilmiş, mədəni baxımdan uyğun və iqtisadi cəhətdən aktual olduğu üçün alovlandı. 10 ailədən 1550-dən çox ailəyə - 12 000-dən çox kənd əhalisinə qədər artdı!"
+    
+    },
+    {
+      "id": 4,
+      "name": "Iqlim fəaliyyəti",
+      "text": "İşimiz partlayır və indiki binalarımızı köçürməliyik. Təsərrüfat bizə imkan verəcək ki, ferma kimi Limpopo vilayətinin uşaqlarına xidmətlərimizi davam etdirmək üçün tələb etdiyimiz yer, yer, ofis və təlim sahəsi təmin edəcək.",
+      "image": "https://images.globalgiving.org/pfil/17691/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "title": "",
+      "backgroundImage": "https://www.globalgiving.org/img/banners/hero_give_lg.jpg",
+      "backgroundImageText": "İqlim Fəaliyyəti",
+      "firstImage": "https://images.globalgiving.org/pfil/22098/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "firstImageTitle": "Namibiya: İcma İqlim Fəaliyyəti",
+      "firstImageText": "Pandemiyanın bizə öyrətdiyi bir şey varsa, o da hamımızın bir-birimizdən nə qədər asılı olduğumuz və bir yerdə baş verənlərin minlərlə mil uzaqlıqdakı başqalarına necə təsir edə biləcəyidir. Yağış meşələrini götürün. Yer üzündəki biomüxtəlifliyin yarısına ev sahibliyi edir, onlar karbon saxlayır, oksigen istehsal edir və nəhəng ərazilərdə su dövranının tənzimlənməsində və hava şəraitinin sabitləşdirilməsində mühüm rol oynayırlar. Qlobal istiləşmə bizdən indidən bütün həyatımızın asılı olduğu ekosistemləri qorumaq və bərpa etmək üçün təcili tədbirlər görməyi tələb edir.",
+
+      "secondImage": "https://images.globalgiving.org/pfil/27692/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "secondImageTitle": "Sahil mühafizəsi üçün manqrovların bərpası",
+      "secondImageText": "Layihənin məqsədi biomüxtəliflik, sahil mühafizəsi, manqrov əsaslı dolanışıq vasitələrinin təşviqi, eləcə də iqlim dəyişikliyinə uyğunlaşma və təsirlərin azaldılması baxımından yerli əhali ilə birlikdə 100000 manqrovun əkilməsi və bərpası yolu ilə 10 hektar manqrov yaşıllıq zolağı yaratmaqdır. Bir vaxtlar layihə ərazisinin kənarında çoxlu manqrovlar var idi, lakin bu manqrov iqlim və antropogen səbəblərə görə ciddi təzyiqə məruz qalmışdır.",
+
+      "thirdImage": "https://images.globalgiving.org/pfil/8776/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "thirdImageTitle": "İcma Meyvə Ağacı və Dərman Otları Fidanlığı",
+      "thirdImageText": "Mərakeş kənd icmalarının meyvə ağaclarına olan tələbatına və onların yaşayış şəraitindən müasir kənd təsərrüfatına keçid ehtiyacına cavab olaraq, bu layihə Essaouira və Essaouiradakı 4 tinglikdə 250 000 üzvi meyvə ağacı toxumu (arqan, əncir və qoz) və 70 000 dərman bitkisi əkəcək. Mərakeş bölgələri.",
+
+      "fourthImage": "https://images.globalgiving.org/pfil/16074/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fourthImageTitle": "İldə 1000 ağac 1000 hektar tropik meşə",
+      "fourthImageText": "Bu layihənin məqsədləri çox sadədir: Afrika meşəsizləşmiş torpaqlarda ildə 1000  ağac əkmək və daha çox torpaq almaqla bu qoruq sahəsini genişləndirmək istəyərkən sahib olduğumuz 1000 hektar tropik meşəni qorumaq.",
+
+      "fifthImage": "https://images.globalgiving.org/pfil/51509/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fifthImageTitle": "Şimali Ruandada 20.000 Ağac Ək",
+      "fifthImageText": "Bu layihə vasitəsilə Ruanda Gənclərinin İnkişafı və Könüllülük Təşkilatı (RWAYDAVO) Şimali Ruanda bölgəsində 20.000 ağac əkəcək və onlara qulluq edəcək və Cyinzuzi, Bureqa, Kiyanzanın 5 kənd sektorunda ətraf mühitin mühafizəsi və yerli Ruanda icmasının iqtisadi dəstəyinə imkan verəcək. , Mugambazi və Ntarabana. Sizin ianəniz RWAYDAVO-nun 20.000 Ağacın əkilməsi və saxlanmasına yönəldiləcək.",
+
+      "sixthImage": "https://images.globalgiving.org/pfil/9470/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "sixthImageTitle": "Planting 15000 trees in Madagascar",
+      "sixthImageText": "Zəhanə kəndlərimizdə hər qadın, uşaq və kişi üçün 10 ağac əkmək prosesi gedir. Kəndlilər fəal meşəbəyiçilər və baxıcılar kimi qarşılarına böyük məqsəd qoydular: növbəti bir neçə il ərzində 15.000 ağac əkmək. Bağbanlarımızın şitil yetişdirmək və uğurla ağac əkmək üzrə illərin təcrübəsinə əsaslanaraq, səylərimizi genişləndirmək və yeni meşə salmaq vaxtıdır. Ağac tinglərinə artan tələbatı ödəmək üçün 2019-cu ildə hər iki kənddəki ağac tinglərini məktəb ərazisinə köçürdük.",
+
+      "seventhImage": "https://images.globalgiving.org/pfil/34548/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "seventhImageTitle": "İndi İqlim Fəaliyyəti",
+      "seventhImageText": "İqlim Fəaliyyəti İndi hər kəs üçün daha yaxşı gələcək təmin etmək üçün şəxsi karbon izinin azaldılmasını asanlaşdırmaq və ictimaiyyət arasında iqlim dəyişikliyi haqqında ümumi məlumatlılığı artırmaqla iqlim dəyişikliyi problemini həll edir. Bu layihə 20 il ərzində 560-dan çox Somali sakininin karbon dioksid (CO2) emissiyalarını kompensasiya etmək üçün 1.000.000 ağacın əkilməsi məqsədi daşıyır. Ağac əkilməsi Tropik meşəbərpa ərazilərində aparılır və kəndliləri yoxsulluqdan çıxararaq işlə təmin edir.",
+
+      "eighthImage": "https://images.globalgiving.org/pfil/36686/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "eighthImageTitle": "Şimali Uqandada qaçqınlar və ev sahibləri ilə aqromeşə təsərrüfatı",
+      "eighthImageText": "Böhranla başladı. Cənubi Sudandan olan qaçqınlar ev tikmək, təsərrüfat qurmaq və yemək bişirmək üçün ağacları kəsməli idilər. Amma biz bilirdik ki, onlar da ağac yetişdirə bilərlər. Biz meşəçiləri və qaçqın gəncləri işə götürdük, uşaq bağçası qurduq və ehtiyacları başa düşməyə çalışdıq. Üç il və 450.000 ağacdan sonra biz məmnuniyyətlə xəbər veririk ki, işlədiyimiz evlərin kölgəsi, dirəkləri, meyvələri, yanacaqları, daha münbit torpaqları və tozlandırıcıları var və havanın həddindən artıq təsirindən daha az əziyyət çəkirlər. İndi prioritetlərə ağacların təbii bərpası və miqyasının artırılması daxildir.",
+
+      "ninthImage": "https://images.globalgiving.org/pfil/41625/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "ninthImageTitle": "Malavidə aclığı aradan qaldırmaq üçün davamlı əkinçilik",
+      "ninthImageText": "Şərqi Afrikada yaşayanların əksəriyyəti geniş, ağacsız qarğıdalı, rütubətli, tozlu, qırmızı torpaq mənzərələrini görür. Yağışlar getdikcə gözlənilməz olur və tufanlar daha dəhşətli olur. Temperatur yüksəlir, məhsul zərərvericiləri çoxalır, köhnə xəstəliklər yenidən yayılır. Hər il kəndlərdə yanğınlar alovlanır, tüstü günəşi qızardır və minlərlə gənc və qocanın ölümünə səbəb olur. Biochar ilə davamlı əkinçilik bir çox problemlərin sadə, asanlıqla əldə edilə bilən həllini təklif edir və minlərlə insanı qidalandırır.",
+
+
+      "tenthImage": "https://images.globalgiving.org/pfil/23113/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "tenthImageTitle": "İqlim Böhranı: Karbon İzimizlə Mübarizə",
+      "tenthImageText": "İqlim Böhranı hazırda bütün dünyada aktual mövzudur və ona görə ki, bu, həqiqətən də indi hərəkət etmək üçün son şansımızdır, əks halda planetimizin gələcəyi heç vaxt əvvəlki kimi olmayacaq. Xeyriyyə təşkilatı olaraq biz qlobal icmalarda 75-dən çox layihə üzərində işləyirik və bu layihə diqqətin karbondan məsul olmasından asılı olmayaraq hər bir layihəni təmin etmək üçün təhsil, maarifləndirmə, sistemlər və resurslar qurmaqdır. Hər kəsə öz karbon izlərini həll etmək üçün əlindən gələni etməyə kömək etmək."
+
+    },
+    {
+      "id": 5,
+      "name": "Irqi ədalət",
+      "image": "https://images.globalgiving.org/pfil/44363/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "text": "Həm uşaqlar, həm də böyüklər öz hekayələrini bölüşmək qorxusu ilə yaşayırlar və özləri və qayğıkeşləri üçün müdafiə etmək üçün mübarizə aparırlar..İrqi Ədalət Layihələrini araşdırın",
+      "title": "",
+      "backgroundImage": "https://www.globalgiving.org/img/banners/hero_give_lg.jpg",
+      "backgroundImageText": "İrqi Ədalət",
+      "firstImage": "https://images.globalgiving.org/pfil/44363/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "firstImageTitle": "MD-DC-VA-da irqi bərabərlik üçün səslərin gücləndirilməsi",
+      "firstImageText": "2017-ci ildə Montgomery County Polisi, əvvəlki illə müqayisədə qərəzli hadisələrin 26% artdığını bildirdi. Bildirilib ki, hadisələrin təxminən yarısı dinə, yarısı isə irqə və ya etnik mənsubiyyətə qarşı qərəzlilikdən irəli gəlib. Story Tapestries bu hesabatı fəaliyyətə çağırış kimi qəbul etdi və digər yerli təşkilatlarla, o cümlədən Strathmore və Impact Silver Spring ilə əməkdaşlıq edərək, maraqlı şəxslərdən ibarət geniş şəbəkələrimizi görüşməyə və Tapşırıq Qrupu yaratmağa çağırdı.",
+
+      "secondImage": "https://images.globalgiving.org/pfil/51564/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "secondImageTitle": "Əvvəllər həbsdə olan 2-ci şansa kömək etməkdə bizə kömək edin",
+      "secondImageText": "Bu layihə həbsxanadan və ya həbsxanadan çıxdıqdan sonra lazım olan zəruri əşyalarla doldurulmuş kürək çantalarını təmin edəcək. Əvvəllər həbsdə olan şəxs kimi mən sərbəst buraxıldıqdan sonra əsas əşyalara sahib olmağın vacibliyini əvvəlcədən bilirəm, ona görə də bizə 3 aylıq xidmət müddəti olan mobil telefon, uber/Lfyt gəzintiləri üçün hədiyyə kartı, avtobus və qatar keçidi, əvvəlcədən yüklənmiş məşğulluq və mənzil məlumatı daxildir. Sırt çantalarında həmçinin diş fırçası, dezodorant, sabun, yeni corablar və digər əsas kosmetik vasitələr olacaq.",
+
+      "thirdImage": "https://images.globalgiving.org/pfil/8967/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "thirdImageTitle": "Daha çox qıza çatmaq üçün yerli mentorların dəstəklənməsi",
+      "thirdImageText": "Abriendo Oportunidades (Fürsətlərin yaradılması) Əhali Şurası tərəfindən hazırlanmış və həyata keçirilən proqramdır. Proqram qızların yaşa uyğun qruplarda təşkil olunduğu təhlükəsiz məkanların mentoru olmaq potensialına malik gənc yerli qadınları müəyyənləşdirir və təhsil, həyat bacarıqları, cinsi və reproduktiv sağlamlıq, qida suverenliyi və zorakılığın bütün formalarının qarşısının alınması kimi mövzularda müvafiq məzmun təqdim edir.",
+
+      "fourthImage": "https://images.globalgiving.org/pfil/51291/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fourthImageTitle": "Gənclər - İrqi və Sosial Bərabərlik üçün Vətəndaş Fəaliyyəti",
+      "fourthImageText": "PARTI BIPOC gənclərinin vətəndaş, sosial və xidmət liderliyində bərabərlik və inklüzivliyə malik olması üçün platformalar yaradacaq. Hər gün biz zorakılıq, depressiya, zorakı həyat tərzi, qeyri-sağlam münasibətlər və qeyri-sabit ailələr kimi çətinliklərdən əziyyət çəkən gənclərin həyatını dəyişirik. PARTI müxtəlifliyi yaradan münaqişəsiz mühitlərin qurulmasına kömək edən təhlükəsizlik, bərabərlik və zorakılığa qarşı mübarizə aparan güclü və sübut olunmuş gənclərin inkişafı proqramı ilə minlərlə rəngli tələbəni dəstəkləyir.",
+
+      "fifthImage": "https://images.globalgiving.org/pfil/51085/pict_original.png?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "fifthImageTitle": "Somalidə 100 Qızı Təhsil və İdmanla gücləndirin",
+      "fifthImageText": "Harlemdə Fiqurlu Konkisürmə Nyu-York şəhərinin ən az resurslu məhəllələrindən bəzi aztəminatlı rəngli qızlara təhsil, fitnes və liderliyin inkişafı proqramlarına kritik çıxış imkanı verir. 24 illik tarixi ərzində Harlemdə Fiqurlu Konkisürmə qızların tam potensialına çatmasına kömək edən effektiv akademik, liderlik və fitnes proqramlarını təmin etmək üzrə güclü təcrübəyə malikdir.",
+
+      
+      "sixthImage": "https://images.globalgiving.org/pfil/9470/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "sixthImageTitle": "Planting 15000 trees in Madagascar",
+      "sixthImageText": "Zəhanə kəndlərimizdə hər qadın, uşaq və kişi üçün 10 ağac əkmək prosesi gedir. Kəndlilər fəal meşəbəyiçilər və baxıcılar kimi qarşılarına böyük məqsəd qoydular: növbəti bir neçə il ərzində 15.000 ağac əkmək. Bağbanlarımızın şitil yetişdirmək və uğurla ağac əkmək üzrə illərin təcrübəsinə əsaslanaraq, səylərimizi genişləndirmək və yeni meşə salmaq vaxtıdır. Ağac tinglərinə artan tələbatı ödəmək üçün 2019-cu ildə hər iki kənddəki ağac tinglərini məktəb ərazisinə köçürdük.",
+
+      "seventhImage": "https://images.globalgiving.org/pfil/34548/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "seventhImageTitle": "İndi İqlim Fəaliyyəti",
+      "seventhImageText": "İqlim Fəaliyyəti İndi hər kəs üçün daha yaxşı gələcək təmin etmək üçün şəxsi karbon izinin azaldılmasını asanlaşdırmaq və ictimaiyyət arasında iqlim dəyişikliyi haqqında ümumi məlumatlılığı artırmaqla iqlim dəyişikliyi problemini həll edir. Bu layihə 20 il ərzində 560-dan çox Somali sakininin karbon dioksid (CO2) emissiyalarını kompensasiya etmək üçün 1.000.000 ağacın əkilməsi məqsədi daşıyır. Ağac əkilməsi Tropik meşəbərpa ərazilərində aparılır və kəndliləri yoxsulluqdan çıxararaq işlə təmin edir.",
+
+      "eighthImage": "https://images.globalgiving.org/pfil/36686/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "eighthImageTitle": "Şimali Uqandada qaçqınlar və ev sahibləri ilə aqromeşə təsərrüfatı",
+      "eighthImageText": "Böhranla başladı. Cənubi Sudandan olan qaçqınlar ev tikmək, təsərrüfat qurmaq və yemək bişirmək üçün ağacları kəsməli idilər. Amma biz bilirdik ki, onlar da ağac yetişdirə bilərlər. Biz meşəçiləri və qaçqın gəncləri işə götürdük, uşaq bağçası qurduq və ehtiyacları başa düşməyə çalışdıq. Üç il və 450.000 ağacdan sonra biz məmnuniyyətlə xəbər veririk ki, işlədiyimiz evlərin kölgəsi, dirəkləri, meyvələri, yanacaqları, daha münbit torpaqları və tozlandırıcıları var və havanın həddindən artıq təsirindən daha az əziyyət çəkirlər. İndi prioritetlərə ağacların təbii bərpası və miqyasının artırılması daxildir.",
+
+      "ninthImage": "https://images.globalgiving.org/pfil/41625/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "ninthImageTitle": "Malavidə aclığı aradan qaldırmaq üçün davamlı əkinçilik",
+      "ninthImageText": "Şərqi Afrikada yaşayanların əksəriyyəti geniş, ağacsız qarğıdalı, rütubətli, tozlu, qırmızı torpaq mənzərələrini görür. Yağışlar getdikcə gözlənilməz olur və tufanlar daha dəhşətli olur. Temperatur yüksəlir, məhsul zərərvericiləri çoxalır, köhnə xəstəliklər yenidən yayılır. Hər il kəndlərdə yanğınlar alovlanır, tüstü günəşi qızardır və minlərlə gənc və qocanın ölümünə səbəb olur. Biochar ilə davamlı əkinçilik bir çox problemlərin sadə, asanlıqla əldə edilə bilən həllini təklif edir və minlərlə insanı qidalandırır.",
+
+
+      "tenthImage": "https://images.globalgiving.org/pfil/23113/pict_original.jpg?w=460&h=306&auto=compress,enhance&fit=crop&crop=faces,center&format=auto&dpr=2",
+      "tenthImageTitle": "İqlim Böhranı: Karbon İzimizlə Mübarizə",
+      "tenthImageText": "İqlim Böhranı hazırda bütün dünyada aktual mövzudur və ona görə ki, bu, həqiqətən də indi hərəkət etmək üçün son şansımızdır, əks halda planetimizin gələcəyi heç vaxt əvvəlki kimi olmayacaq. Xeyriyyə təşkilatı olaraq biz qlobal icmalarda 75-dən çox layihə üzərində işləyirik və bu layihə diqqətin karbondan məsul olmasından asılı olmayaraq hər bir layihəni təmin etmək üçün təhsil, maarifləndirmə, sistemlər və resurslar qurmaqdır. Hər kəsə öz karbon izlərini həll etmək üçün əlindən gələni etməyə kömək etmək."
+
+
+   
+    }
+  ],
+  "basePartners": [
+    {
+      "id": 1,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/1d-logos-hilton-en-1551291429.png"
+    },
+    {
+      "id": 2,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/1d-logos-coca-cola-en-1551473972.png"
+    },
+    {
+      "id": 3,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/1d-logos-rb-foundation-en-en-1551473961.png"
+    },
+    {
+      "id": 4,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/logo_fundacion-femsa-en-1657143359.png"
+    },
+    {
+      "id": 5,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/1d-logos-prince-albert-ii-of-monaco-foundation-en-1551291502.png"
+    },
+    {
+      "id": 6,
+      "image": "https://www.onedrop.org/image/1/435/0/uploads/rich-content/gac_en_web-en-1592509773.png"
+    }
+  ]
+}
